@@ -1,6 +1,9 @@
 # Ignore CSV and json files
 *.csv
 *.json
+ratings.csv
+movies_metadata.csv
+
 
 config.py
 
